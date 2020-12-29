@@ -100,7 +100,7 @@ body{
     padding: 5px;
 }
 .left-body-p{
-    margin-top: 15px;
+    margin-top: 10px;
 }
 .dog-img{
     display: flex;
@@ -110,7 +110,7 @@ body{
 .dog-img img{
     border-radius: 10px;
     height: 40px;
-    margin-top: 15px;
+    margin-top: 10px;
     margin-left: 10px;
     width: 40px;
 }
