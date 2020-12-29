@@ -109,10 +109,10 @@ body{
 }
 .dog-img img{
     border-radius: 10px;
-    height: 50px;
+    height: 40px;
     margin-top: 15px;
     margin-left: 10px;
-    width: 50px;
+    width: 40px;
 }
 
 .right-body p{
